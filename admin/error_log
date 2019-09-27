@@ -1,0 +1,4 @@
+[22-Jul-2019 08:44:26 Europe/Sofia] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webdesignvratsa_rostar'@'localhost' (using password: YES) in /home/webdesignvratsa/rostar.webdesignvratsa.com/system/library/db/mysqli.php on line 7
+[22-Jul-2019 08:44:26 Europe/Sofia] PHP Notice:  Error: Could not make a database link (1045) Access denied for user 'webdesignvratsa_rostar'@'localhost' (using password: YES) in /home/webdesignvratsa/rostar.webdesignvratsa.com/system/library/db/mysqli.php on line 10
+[03-Aug-2019 15:18:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected ')' in /home/webdesignvratsa/rostar.webdesignvratsa.com/admin/controller/catalog_per_storage/product_per_storage.php on line 140
+[03-Aug-2019 15:19:27 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webdesignvratsa/rostar.webdesignvratsa.com/admin/controller/catalog_per_storage/product_per_storage.php on line 145
